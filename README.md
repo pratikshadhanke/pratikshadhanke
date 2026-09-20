@@ -12,7 +12,7 @@ I am an Analytics & Reporting Professional specializing in business dashboards, 
 * **Revenue Growth:** Boosted revenue recovery through data-driven Root Cause Analysis (RCA).
 
 ### 🛠️ Tech Stack
-* **Languages & Tools:** SQL, Python, Power BI, Tableau, Excel
+* **Languages & Tools:** SQL, Basic Python, Power BI, Tableau, Excel
 * **Specialties:** KPI Tracking, Risk Analytics, Healthcare Operations Analysis, Dashboard Development, Root Cause Analysis
 
 Let's connect! 💼 
