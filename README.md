@@ -5,17 +5,18 @@ I am an Analytics & Reporting Professional specializing in business dashboards, 
 ### 🚀 What I Do
 * **Data Visualization & BI:** Power BI, Tableau, and Excel dashboard development.
 * **Data Manipulation & Modeling:** SQL and Python for processing transactional datasets.
-* **Domain Expertise:** Banking Credit Risk, transaction monitoring, customer delinquency tracking, and exposure mitigation.
+* **Domain Expertise:** Healthcare operations, Banking Credit Risk, transaction monitoring, customer delinquency tracking, and exposure mitigation.
 
 ### 📈 Proven Impact
-* **Workflow Optimization:** Streamlined and improved operational reporting workflows.
+* **Workflow Optimization:** Streamlined and improved operational reporting workflows across banking and healthcare sectors.
 * **Revenue Growth:** Boosted revenue recovery through data-driven Root Cause Analysis (RCA).
 
 ### 🛠️ Tech Stack
 * **Languages & Tools:** SQL, Python, Power BI, Tableau, Excel
-* **Specialties:** KPI Tracking, Risk Analytics, Dashboard Development, Root Cause Analysis
+* **Specialties:** KPI Tracking, Risk Analytics, Healthcare Operations Analysis, Dashboard Development, Root Cause Analysis
 
 Let's connect! 💼 
+
 
 
 <!--
