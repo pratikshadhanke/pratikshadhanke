@@ -8,7 +8,7 @@ I am an Analytics & Reporting Professional specializing in business dashboards, 
 * **Domain Expertise:** Healthcare operations, Banking Credit Risk, transaction monitoring, customer delinquency tracking, and exposure mitigation.
 
 ### 📈 Proven Impact
-* **Workflow Optimization:** Streamlined and improved operational reporting workflows across banking and healthcare sectors.
+* **Workflow Optimization:** Streamlined and improved operational reporting workflows across healthcare sectors.
 * **Revenue Growth:** Boosted revenue recovery through data-driven Root Cause Analysis (RCA).
 
 ### 🛠️ Tech Stack
